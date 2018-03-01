@@ -28,7 +28,7 @@
 | 防伪 | 这点上应该说两者各有千秋，但数字货币可能略胜一筹。纸币依靠的是各种设计（纸张、油墨、暗纹、夹层等）上的精巧，数字货币依靠的则是密码学上的保障。事实上，纸币的伪造时有发生，但数字货币的伪造明面上还没能实现。 | 数字货币 |
 | 辩伪 | 纸币即使依托验钞机仍会有误判情况，数字货币依靠密码学基本不可能出错。数字货币胜出。 | 数字货币 |
 | 匿名 | 通常情况下，两者都能提供很好的匿名性。但都无法防御有意的追踪。 | 平局 |
-| 交易 | 对纸币来说，谁持有纸币就是合法拥有者，交易通过纸币自身的转移即可完成。对数字货币来说则复杂的多，因为任何数字物品都是可以被复制的，因此需要额外的机制。为此，比特币发明了区块链技术来确保可靠不可篡改的交易。 | 纸币 |
+| 交易 | 对纸币来说，谁持有纸币谁就是合法拥有者，交易通过纸币自身的转移即可完成。对数字货币来说则复杂的多，因为任何数字物品都是可以被复制的，因此需要额外的机制。为此，比特币发明了区块链技术来确保可靠不可篡改的交易。 | 纸币 |
 | 资源 | 100 美元钞票的生产成本是 0.1 美元左右。100 面额人民币的生产成本说法众多，但估计应该在几毛到几块范围内。数字货币消耗的资源则复杂的多，以最坏情况估计，算出来多少就要消耗多少电（往往要更多）。 | 纸币 |
 | 发行 | 纸币的发行需要第三方机构的参与，数字货币则通过分布式算法来完成发行。在人类历史上，通胀和通缩往往是不合理地发行货币造成的；数字货币尚无机会被验证，在这方面的表现还有待观察。 | 平局 |
 
@@ -60,7 +60,7 @@
 
 在不存在一个第三方记账机构的情况下，如何实现一个数字货币系统呢？
 
-近三十年来，数字货币技术朝着这个方向努力，经历了几代演进，包括 [e-Cash](http://www.hit.bme.hu/~buttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF)、、[HashCash](Hashcash](http://en.wikipedia.org/wiki/Hashcash)、[B-money](http://www.weidai.com/bmoney.txt) 等。
+近三十年来，数字货币技术朝着这个方向努力，经历了几代演进，包括 [e-Cash](http://www.hit.bme.hu/~buttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF)、[HashCash](http://en.wikipedia.org/wiki/Hashcash)、[B-money](http://www.weidai.com/bmoney.txt) 等。
 
 1983 年，[David Chaum](https://en.wikipedia.org/wiki/David_Chaum) 最早提出[ecash](http://www.hit.bme.hu/~buttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF)，并于 1989 年创建了 [Digicash](https://en.wikipedia.org/wiki/Digicash) 公司。ecash 系统是首个匿名化的数字加密货币（anonymous cryptographic electronic money, or electronic cash system），基于 David Chaum 发明的盲签名技术，曾被应用于银行小额支付中。ecash 依赖于一个中心化的中介机构，导致它最终失败。
 
